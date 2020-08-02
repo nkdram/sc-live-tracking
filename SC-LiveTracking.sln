@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RD.IPMask", "RD.IPMask\RD.IPMask.csproj", "{E8E8C077-8934-4540-8FF9-0D7CF288B41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RD.MessageQueue", "RD.MessageQueue\RD.MessageQueue.csproj", "{3E98F1AD-81FB-4945-867C-6D4FA6B43693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E8C077-8934-4540-8FF9-0D7CF288B41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E8C077-8934-4540-8FF9-0D7CF288B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E8C077-8934-4540-8FF9-0D7CF288B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E8C077-8934-4540-8FF9-0D7CF288B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E98F1AD-81FB-4945-867C-6D4FA6B43693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E98F1AD-81FB-4945-867C-6D4FA6B43693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E98F1AD-81FB-4945-867C-6D4FA6B43693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E98F1AD-81FB-4945-867C-6D4FA6B43693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91FC7C97-0392-4F36-8D53-8BEF69414C18}
+	EndGlobalSection
+EndGlobal
